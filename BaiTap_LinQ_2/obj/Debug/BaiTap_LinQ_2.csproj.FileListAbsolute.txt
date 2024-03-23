@@ -1,0 +1,7 @@
+D:\Workspace\C_sharp\BaiTap_LinQ_2\BaiTap_LinQ_2\bin\Debug\BaiTap_LinQ_2.exe.config
+D:\Workspace\C_sharp\BaiTap_LinQ_2\BaiTap_LinQ_2\bin\Debug\BaiTap_LinQ_2.exe
+D:\Workspace\C_sharp\BaiTap_LinQ_2\BaiTap_LinQ_2\bin\Debug\BaiTap_LinQ_2.pdb
+D:\Workspace\C_sharp\BaiTap_LinQ_2\BaiTap_LinQ_2\obj\Debug\BaiTap_LinQ_2.csproj.AssemblyReference.cache
+D:\Workspace\C_sharp\BaiTap_LinQ_2\BaiTap_LinQ_2\obj\Debug\BaiTap_LinQ_2.csproj.CoreCompileInputs.cache
+D:\Workspace\C_sharp\BaiTap_LinQ_2\BaiTap_LinQ_2\obj\Debug\BaiTap_LinQ_2.exe
+D:\Workspace\C_sharp\BaiTap_LinQ_2\BaiTap_LinQ_2\obj\Debug\BaiTap_LinQ_2.pdb

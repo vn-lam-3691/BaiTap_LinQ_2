@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\C_sharp\\BaiTap_LinQ_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BACBBAB-8BB1-447B-B079-F8E8692283CB}|BaiTap_LinQ_2\\BaiTap_LinQ_2.csproj|d:\\workspace\\c_sharp\\baitap_linq_2\\baitap_linq_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BACBBAB-8BB1-447B-B079-F8E8692283CB}|BaiTap_LinQ_2\\BaiTap_LinQ_2.csproj|solutionrelative:baitap_linq_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BACBBAB-8BB1-447B-B079-F8E8692283CB}|BaiTap_LinQ_2\\BaiTap_LinQ_2.csproj|D:\\Workspace\\C_sharp\\BaiTap_LinQ_2\\baitap_linq_2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BACBBAB-8BB1-447B-B079-F8E8692283CB}|BaiTap_LinQ_2\\BaiTap_LinQ_2.csproj|solutionrelative:baitap_linq_2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BACBBAB-8BB1-447B-B079-F8E8692283CB}|BaiTap_LinQ_2\\BaiTap_LinQ_2.csproj|D:\\Workspace\\C_sharp\\BaiTap_LinQ_2\\baitap_linq_2\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BACBBAB-8BB1-447B-B079-F8E8692283CB}|BaiTap_LinQ_2\\BaiTap_LinQ_2.csproj|solutionrelative:baitap_linq_2\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BACBBAB-8BB1-447B-B079-F8E8692283CB}|BaiTap_LinQ_2\\BaiTap_LinQ_2.csproj|D:\\Workspace\\C_sharp\\BaiTap_LinQ_2\\baitap_linq_2\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BACBBAB-8BB1-447B-B079-F8E8692283CB}|BaiTap_LinQ_2\\BaiTap_LinQ_2.csproj|solutionrelative:baitap_linq_2\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BACBBAB-8BB1-447B-B079-F8E8692283CB}|BaiTap_LinQ_2\\BaiTap_LinQ_2.csproj|D:\\Workspace\\C_sharp\\BaiTap_LinQ_2\\baitap_linq_2\\employeemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BACBBAB-8BB1-447B-B079-F8E8692283CB}|BaiTap_LinQ_2\\BaiTap_LinQ_2.csproj|solutionrelative:baitap_linq_2\\employeemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeManage.cs",
+              "DocumentMoniker": "D:\\Workspace\\C_sharp\\BaiTap_LinQ_2\\BaiTap_LinQ_2\\EmployeeManage.cs",
+              "RelativeDocumentMoniker": "BaiTap_LinQ_2\\EmployeeManage.cs",
+              "ToolTip": "D:\\Workspace\\C_sharp\\BaiTap_LinQ_2\\BaiTap_LinQ_2\\EmployeeManage.cs",
+              "RelativeToolTip": "BaiTap_LinQ_2\\EmployeeManage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:17:20.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Position.cs",
+              "DocumentMoniker": "D:\\Workspace\\C_sharp\\BaiTap_LinQ_2\\BaiTap_LinQ_2\\Position.cs",
+              "RelativeDocumentMoniker": "BaiTap_LinQ_2\\Position.cs",
+              "ToolTip": "D:\\Workspace\\C_sharp\\BaiTap_LinQ_2\\BaiTap_LinQ_2\\Position.cs",
+              "RelativeToolTip": "BaiTap_LinQ_2\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:50:59.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Workspace\\C_sharp\\BaiTap_LinQ_2\\BaiTap_LinQ_2\\Department.cs",
+              "RelativeDocumentMoniker": "BaiTap_LinQ_2\\Department.cs",
+              "ToolTip": "D:\\Workspace\\C_sharp\\BaiTap_LinQ_2\\BaiTap_LinQ_2\\Department.cs",
+              "RelativeToolTip": "BaiTap_LinQ_2\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:50:33.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Workspace\\C_sharp\\BaiTap_LinQ_2\\BaiTap_LinQ_2\\Employee.cs",
+              "RelativeDocumentMoniker": "BaiTap_LinQ_2\\Employee.cs",
+              "ToolTip": "D:\\Workspace\\C_sharp\\BaiTap_LinQ_2\\BaiTap_LinQ_2\\Employee.cs",
+              "RelativeToolTip": "BaiTap_LinQ_2\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:50:22.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\C_sharp\\BaiTap_LinQ_2\\BaiTap_LinQ_2\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap_LinQ_2\\Program.cs",
+              "ToolTip": "D:\\Workspace\\C_sharp\\BaiTap_LinQ_2\\BaiTap_LinQ_2\\Program.cs",
+              "RelativeToolTip": "BaiTap_LinQ_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:48:17.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
